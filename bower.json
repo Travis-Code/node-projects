@@ -1,0 +1,19 @@
+{
+  "name": "node projects",
+  "homepage": "https://github.com/Travis-Code/node-projects",
+  "authors": [
+    "Trav <jorkilla@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
